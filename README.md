@@ -7,5 +7,6 @@ create a folder inside public as follows for the images to be uploaded :
 
 public/public/upload
 
-the reg.php is the controller 
-the database and pager has also been uploaded here for the connection and no.of post per page .(replace them inside : app/config)
+the reg.php is the controller
+
+the " database , routes and pager " has also been uploaded here for the connection and no.of post per page .(replace them inside : app/config)
