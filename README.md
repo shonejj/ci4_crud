@@ -1,7 +1,7 @@
 # ci4_crud
 crud operation with codeiginator 4 .
 
-i have attached the demo db in the repostary for this project .
+i have attached the demo db , modules , and view files in the repostary for this project .
 
 create a folder inside public as follows for the images to be uploaded :  
 
